@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_002_ReadWrite\bin\Debug\CS_002_ReadWrite.exe.config
+D:\Programming_Learning\CS_002_ReadWrite\bin\Debug\CS_002_ReadWrite.exe
+D:\Programming_Learning\CS_002_ReadWrite\bin\Debug\CS_002_ReadWrite.pdb
+D:\Programming_Learning\CS_002_ReadWrite\obj\Debug\CS_002_ReadWrite.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_002_ReadWrite\obj\Debug\CS_002_ReadWrite.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_002_ReadWrite\obj\Debug\CS_002_ReadWrite.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_002_ReadWrite\obj\Debug\CS_002_ReadWrite.exe
+D:\Programming_Learning\CS_002_ReadWrite\obj\Debug\CS_002_ReadWrite.pdb
