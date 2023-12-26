@@ -1,0 +1,97 @@
+{
+  "name": "230413_Recording",
+  "description": "녹화 예제",
+  "main": "Kepco_WriteLineText.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.20.0-preview]",
+    "UiPath.Mail.Activities": "[1.18.2]",
+    "UiPath.System.Activities": "[23.4.1-preview]",
+    "UiPath.Testing.Activities": "[23.4.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.4.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.4.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "dbd2dc9c-bb59-4b6c-844b-418ef4b39106",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "NotePad.xaml",
+      "uniqueId": "7d477512-b0de-4ff1-a475-0733b1e70c00",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Acme_UiPath_Login.xaml",
+      "uniqueId": "1499fd3a-c55b-4ef0-ab76-da73ec317c01",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Acme_OpenAndLogin.xaml",
+      "uniqueId": "3c5386b5-0ad9-4875-a62d-e3035bf710e1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Naver_GetExchangeRate.xaml",
+      "uniqueId": "26853c47-f1a1-45bc-bf3b-c159b0d3ec75",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Acme_OpenAndLoginWriteData.xaml",
+      "uniqueId": "d2b3cdbb-c5af-48ce-b0ba-af2e9407c24d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Kepco_WriteLineText.xaml",
+      "uniqueId": "28fe25a1-7003-4b28-950f-61c431a3d9e1",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
