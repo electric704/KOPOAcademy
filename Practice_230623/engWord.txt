@@ -1,0 +1,30 @@
+1.sophisticated.세련된, 정교한, 복잡한
+2.sophistication.세련, 정교함
+3.consecutive.연속적인, 연이은
+4.consecutively.연속적으로
+5.quality.질, 품질
+6.completely.완전히
+7.complete.완료하다
+8.completion.완료, 완성
+9.information.정보
+10.deliberation.토의, 숙고, 신중함
+11.formerly.이전에, 예전에
+12.conveniently.편리하게
+13.convenient.편리한
+14.increase.증가하다, 증가, 인상
+15.decrease.줄다, 감소하다, 감소, 하락
+16.consistency.일관성, 한결같음
+17.inconsistency.불일치
+18.enhance.(가치를)높이다, 향상시키다
+19.establish.설립하다, 수립하다
+20.estimate.추정하다 / 추정치
+21.impressive.인상적인, 인상깊은, 굉장한
+22.impression.인상, 감명
+23.trensfer.옮기다, 보내다, 이동하다, 이동시키다
+24.reduce.줄이다, 낯추다
+25.beware.조심하다, 주의하다
+26.innate.타고난, 선천적인
+27.restore.회복시키다, 복구시키다
+28.necessary.필요한
+29.health.건강
+30.healthy.건강한
