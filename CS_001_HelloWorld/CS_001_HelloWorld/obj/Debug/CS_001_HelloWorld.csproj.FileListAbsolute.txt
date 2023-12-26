@@ -1,0 +1,16 @@
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\bin\Debug\cs_001_HellowWorld.exe.config
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\bin\Debug\cs_001_HellowWorld.exe
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\bin\Debug\cs_001_HellowWorld.pdb
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\obj\Debug\cs_001_HellowWorld.csproj.AssemblyReference.cache
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\obj\Debug\cs_001_HellowWorld.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\obj\Debug\cs_001_HellowWorld.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\obj\Debug\cs_001_HellowWorld.exe
+D:\Programming_Learning\cs_001_HellowWorld\cs_001_HellowWorld\obj\Debug\cs_001_HellowWorld.pdb
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\bin\Debug\cs_001_HellowWorld.exe.config
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\bin\Debug\cs_001_HellowWorld.exe
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\bin\Debug\cs_001_HellowWorld.pdb
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\obj\Debug\CS_001_HelloWorld.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\obj\Debug\CS_001_HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\obj\Debug\CS_001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\obj\Debug\cs_001_HellowWorld.exe
+D:\Programming_Learning\CS_001_HelloWorld\CS_001_HelloWorld\obj\Debug\cs_001_HellowWorld.pdb
