@@ -1,0 +1,94 @@
+{
+  "name": "230518_Class.API",
+  "description": "빈 프로세스",
+  "main": "Local_Email.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.20.1]",
+    "UiPath.FTP.Activities": "[2.3.0]",
+    "UiPath.Mail.Activities": "[1.18.2]",
+    "UiPath.PDF.Activities": "[3.14.0]",
+    "UiPath.System.Activities": "[23.4.2]",
+    "UiPath.Testing.Activities": "[23.4.0]",
+    "UiPath.UIAutomation.Activities": "[23.4.4]",
+    "UiPath.WebAPI.Activities": "[1.16.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Local_BizNo.xaml",
+      "uniqueId": "ca63c872-b892-4ee1-80e4-d90445c6b1d8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Local_ChatGPT.xaml",
+      "uniqueId": "67c3a1e2-d677-45a9-9808-92419a893fff",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Local_BizNumberWork.xaml",
+      "uniqueId": "6006f490-118c-4db5-8dea-54311a67702b",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Local_PDF.xaml",
+      "uniqueId": "768913dc-dc5f-4052-ad50-f9764e7cdfcd",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Local_FTP.xaml",
+      "uniqueId": "c68b02b7-2e36-4261-891b-7356e2cb8693",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Local_Email.xaml",
+      "uniqueId": "d01cc76b-e192-4e4d-9176-5edf065508f8",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
